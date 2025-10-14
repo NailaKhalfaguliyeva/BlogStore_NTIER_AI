@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\Migrations\\20251014102807_migdeneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlogStore_NTIER_AI_DataAccessLayer\\Migrations\\20251014102807_migdeneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\migrations\\20251014102807_migdeneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\migrations\\20251014102807_migdeneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_presentationlayer\\blogstore_ntier_ai_presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -42,8 +42,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -60,23 +68,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "BlogStore_NTIER_AI_PresentationLayer",
+              "Title": "BlogStore_NTIER_AI_PresentationLayer.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj",
               "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj",
               "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-14T10:23:52.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2025-10-14T10:23:52.837Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-14T10:19:33.781Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T10:19:33.781Z"
             },
             {
               "$type": "Document",
@@ -101,8 +99,7 @@
               "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-14T09:34:13.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T09:34:13.07Z"
             },
             {
               "$type": "Document",
@@ -114,8 +111,7 @@
               "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\Context\\BlogContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:23:40.805Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T09:23:40.805Z"
             },
             {
               "$type": "Document",
@@ -127,8 +123,7 @@
               "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T09:04:51.347Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T09:04:51.347Z"
             },
             {
               "$type": "Document",
@@ -140,8 +135,7 @@
               "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\Configurations\\AppUserConfiguration.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T07:43:28.566Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T07:43:28.566Z"
             },
             {
               "$type": "Document",
@@ -153,8 +147,7 @@
               "RelativeToolTip": "BlogStore_NTIER_AI_BusinessLayer\\Container\\Extension.cs",
               "ViewState": "AgIAABsAAAAAAAAAAAAAABAAAAB9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T07:21:18.932Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T07:21:18.932Z"
             }
           ]
         }

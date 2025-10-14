@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlogStore_NTIER_AI_PresentationLayer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99bfcb3f19c0219774fb537c42b1f96034a82203")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlogStore_NTIER_AI_PresentationLayer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlogStore_NTIER_AI_PresentationLayer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
