@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\bin\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.deps.json
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\bin\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.runtimeconfig.json
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\bin\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.dll
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\bin\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\bin\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.dll
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\bin\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.pdb
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStor.CA9BF29D.Up2Date
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.dll
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\refint\BlogStore_NTIER_AI_DataAccessLayer.dll
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.pdb
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\ref\BlogStore_NTIER_AI_DataAccessLayer.dll

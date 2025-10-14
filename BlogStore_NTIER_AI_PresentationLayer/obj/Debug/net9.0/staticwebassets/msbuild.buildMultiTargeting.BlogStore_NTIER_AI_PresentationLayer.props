@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BlogStore_NTIER_AI_PresentationLayer.props" />
+</Project>
