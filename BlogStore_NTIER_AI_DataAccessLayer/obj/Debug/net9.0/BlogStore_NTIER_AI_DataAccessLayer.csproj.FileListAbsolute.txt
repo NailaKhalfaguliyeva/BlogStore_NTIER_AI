@@ -15,3 +15,4 @@ C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.pdb
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\ref\BlogStore_NTIER_AI_DataAccessLayer.dll
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_DataAccessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_DataAccessLayer.sourcelink.json

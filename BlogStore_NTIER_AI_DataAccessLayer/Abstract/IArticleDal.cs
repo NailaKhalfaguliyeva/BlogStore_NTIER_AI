@@ -4,5 +4,6 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Abstract
 {
    public interface IArticleDal:IGenericDal<Article>
     {
+        public List<Article> GetArticlesWithCategories();
     }
 }

@@ -3,12 +3,104 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\migrations\\20251014102807_migdeneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\migrations\\20251014102807_migdeneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_presentationlayer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|solutionrelative:blogstore_ntier_ai_presentationlayer\\views\\default\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_presentationlayer\\views\\shared\\components\\_articlelistcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|solutionrelative:blogstore_ntier_ai_presentationlayer\\views\\shared\\components\\_articlelistcomponentpartial\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_presentationlayer\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|solutionrelative:blogstore_ntier_ai_presentationlayer\\controllers\\defaultcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_presentationlayer\\viewcomponents\\_articlelistcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|solutionrelative:blogstore_ntier_ai_presentationlayer\\viewcomponents\\_articlelistcomponentpartial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_presentationlayer\\blogstore_ntier_ai_presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|solutionrelative:blogstore_ntier_ai_presentationlayer\\blogstore_ntier_ai_presentationlayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_presentationlayer\\wwwroot\\blogy-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|solutionrelative:blogstore_ntier_ai_presentationlayer\\wwwroot\\blogy-1.0.0\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88704F58-BB3D-41F3-877E-DE212F135962}|BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_businesslayer\\abstract\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88704F58-BB3D-41F3-877E-DE212F135962}|BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj|solutionrelative:blogstore_ntier_ai_businesslayer\\abstract\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\entityframework\\efcategorydal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\entityframework\\efarticledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\entityframework\\efarticledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\entityframework\\efauthordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\entityframework\\efauthordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\entityframework\\efcommentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\entityframework\\efcommentdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\entityframework\\eftagdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\entityframework\\eftagdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\entityframework\\efarticletagdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\entityframework\\efarticletagdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\abstract\\iarticledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\abstract\\iarticledal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88704F58-BB3D-41F3-877E-DE212F135962}|BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_businesslayer\\concrete\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88704F58-BB3D-41F3-877E-DE212F135962}|BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj|solutionrelative:blogstore_ntier_ai_businesslayer\\concrete\\articlemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88704F58-BB3D-41F3-877E-DE212F135962}|BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_businesslayer\\abstract\\iarticletagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88704F58-BB3D-41F3-877E-DE212F135962}|BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj|solutionrelative:blogstore_ntier_ai_businesslayer\\abstract\\iarticletagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_entitylayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|solutionrelative:blogstore_ntier_ai_entitylayer\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_entitylayer\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|solutionrelative:blogstore_ntier_ai_entitylayer\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_entitylayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|solutionrelative:blogstore_ntier_ai_entitylayer\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_entitylayer\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|solutionrelative:blogstore_ntier_ai_entitylayer\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_entitylayer\\entities\\articletag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|solutionrelative:blogstore_ntier_ai_entitylayer\\entities\\articletag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_entitylayer\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|solutionrelative:blogstore_ntier_ai_entitylayer\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_entitylayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF02966A-0E78-4889-A75A-13AF611A0097}|BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj|solutionrelative:blogstore_ntier_ai_entitylayer\\entities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_dataaccesslayer\\migrations\\20251014102807_migdeneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8AA422-1160-4ECF-A4B7-D237C58750C3}|BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj|solutionrelative:blogstore_ntier_ai_dataaccesslayer\\migrations\\20251014102807_migdeneme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0D8887CC-897D-48C9-959D-838EAB2DE250}|BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj|c:\\users\\asus\\source\\repos\\blogstore_ntier_ai\\blogstore_ntier_ai_presentationlayer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -42,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +146,298 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\Views\\Shared\\Components\\_ArticleListComponentPartial\\Default.cshtml",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\Views\\Shared\\Components\\_ArticleListComponentPartial\\Default.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\Views\\Shared\\Components\\_ArticleListComponentPartial\\Default.cshtml",
+              "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\Views\\Shared\\Components\\_ArticleListComponentPartial\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T21:17:11.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ArticleListComponentPartial.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\ViewComponents\\_ArticleListComponentPartial.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\ViewComponents\\_ArticleListComponentPartial.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\ViewComponents\\_ArticleListComponentPartial.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\ViewComponents\\_ArticleListComponentPartial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T21:01:00.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\wwwroot\\blogy-1.0.0\\index.html",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\wwwroot\\blogy-1.0.0\\index.html",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\wwwroot\\blogy-1.0.0\\index.html",
+              "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\wwwroot\\blogy-1.0.0\\index.html",
+              "ViewState": "AgIAAKoCAAAAAAAAAAAswMkCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-14T20:44:21.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EfCategoryDal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfCategoryDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:17:25.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EfAuthorDal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfAuthorDal.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfAuthorDal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfAuthorDal.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfAuthorDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:16:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EfCommentDal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfCommentDal.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfCommentDal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfCommentDal.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfCommentDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:15:54.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EfTagDal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfTagDal.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfTagDal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfTagDal.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfTagDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:15:47.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EfArticleTagDal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfArticleTagDal.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfArticleTagDal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfArticleTagDal.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfArticleTagDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:14:57.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EfArticleDal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfArticleDal.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfArticleDal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfArticleDal.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\EntityFramework\\EfArticleDal.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:10:31.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IArticleDal.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\Abstract\\IArticleDal.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\Abstract\\IArticleDal.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\Abstract\\IArticleDal.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\Abstract\\IArticleDal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:04:22.275Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ArticleManager.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\Concrete\\ArticleManager.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_BusinessLayer\\Concrete\\ArticleManager.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\Concrete\\ArticleManager.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_BusinessLayer\\Concrete\\ArticleManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T20:00:14.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IArticleTagService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\Abstract\\IArticleTagService.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_BusinessLayer\\Abstract\\IArticleTagService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\Abstract\\IArticleTagService.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_BusinessLayer\\Abstract\\IArticleTagService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:43:10.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\Abstract\\IArticleService.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_BusinessLayer\\Abstract\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\Abstract\\IArticleService.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_BusinessLayer\\Abstract\\IArticleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:42:57.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\Views\\Default\\Index.cshtml",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\Views\\Default\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\Views\\Default\\Index.cshtml",
+              "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\Views\\Default\\Index.cshtml",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAAABQBAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-14T16:28:27.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\Controllers\\DefaultController.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\Controllers\\DefaultController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\Controllers\\DefaultController.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\Controllers\\DefaultController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:27:34.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T16:10:05.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Tag.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:54:13.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Comment.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:54:01.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Category.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:53:48.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Author.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Author.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Author.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:53:36.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ArticleTag.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\ArticleTag.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_EntityLayer\\Entities\\ArticleTag.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\ArticleTag.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_EntityLayer\\Entities\\ArticleTag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:53:22.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\Article.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_EntityLayer\\Entities\\Article.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:53:08.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\AppUser.cs",
+              "RelativeDocumentMoniker": "BlogStore_NTIER_AI_EntityLayer\\Entities\\AppUser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\Entities\\AppUser.cs",
+              "RelativeToolTip": "BlogStore_NTIER_AI_EntityLayer\\Entities\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T15:52:56.336Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "20251014102807_migdeneme.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\Migrations\\20251014102807_migdeneme.cs",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\Migrations\\20251014102807_migdeneme.cs",
@@ -62,12 +445,11 @@
               "RelativeToolTip": "BlogStore_NTIER_AI_DataAccessLayer\\Migrations\\20251014102807_migdeneme.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-14T10:28:07.34Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-14T10:28:07.34Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BlogStore_NTIER_AI_PresentationLayer.csproj",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj",
@@ -75,11 +457,12 @@
               "RelativeToolTip": "BlogStore_NTIER_AI_PresentationLayer\\BlogStore_NTIER_AI_PresentationLayer.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-10-14T10:23:52.837Z"
+              "WhenOpened": "2025-10-14T10:23:52.837Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 26,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\Views\\Home\\Index.cshtml",
@@ -91,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 25,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\appsettings.json",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\appsettings.json",
@@ -103,7 +486,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 27,
               "Title": "BlogContext.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\Context\\BlogContext.cs",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\Context\\BlogContext.cs",
@@ -115,7 +498,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_PresentationLayer\\Program.cs",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_PresentationLayer\\Program.cs",
@@ -127,7 +510,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 28,
               "Title": "AppUserConfiguration.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\Configurations\\AppUserConfiguration.cs",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_DataAccessLayer\\Configurations\\AppUserConfiguration.cs",
@@ -139,7 +522,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 30,
               "Title": "Extension.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\Container\\Extension.cs",
               "RelativeDocumentMoniker": "BlogStore_NTIER_AI_BusinessLayer\\Container\\Extension.cs",
