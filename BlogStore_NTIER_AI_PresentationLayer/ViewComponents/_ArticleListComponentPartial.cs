@@ -10,15 +10,7 @@ namespace BlogStore_NTIER_AI_PresentationLayer.ViewComponents
         public IViewComponentResult Invoke()
         {
             var articles = _articleService.TGetArticlesWithCategories();
-
-
-            var filteredArticles = articles
-                .Where(x => !x.Title.Contains("test", StringComparison.OrdinalIgnoreCase)
-                         && !x.Title.Contains("try", StringComparison.OrdinalIgnoreCase))
-                .ToList();
-
-
-            return View(filteredArticles);
+            return View(articles);
         }
     }
 }

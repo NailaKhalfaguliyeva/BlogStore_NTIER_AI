@@ -12,9 +12,24 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Concrete
             _articleDal = articleDal;
         }
 
+        public AppUser TGetAppUserByArticleId(int id)
+        {
+            return _articleDal.GetAppUserByArticleId(id);
+        }
+
+        public List<Article> TGetArticlesByAppUser(string id)
+        {
+            return _articleDal.GetArticlesByAppUser(id);
+        }
+
         public List<Article> TGetArticlesWithCategories()
         {
             return _articleDal.GetArticlesWithCategories();
+        }
+
+        public List<Article> TGetById(int id)
+        {
+            throw new NotImplementedException();
         }
     }
 }

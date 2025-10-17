@@ -1,6 +1,27 @@
 ﻿@model List<BlogStore_NTIER_AI_EntityLayer.Entities.Article>
-@{
-    Layout = null;
-}
 
+<div class="section search-result-wrap">
+    <div class="container">
+
+        <div class="row posts-entry">
+            <div class="col-lg-12">
+
+                @foreach (var item in Model)
+                {
+                    <div class="blog-entry d-flex blog-entry-search-item">
+                        <a href="/Article/ArticleDetail/@item.ArticleId" class="img-link me-4">
+                            <img src="@item.ImageUrl" alt="Image" class="img-fluid">
+                        </a>
+                        <div>
+                            <span class="date">@item.CreatedDate.ToString("dd-MMM-yyyy") &bullet; <a href="#">@item.Category.CategoryName</a></span>
+                            <h2><a href="/Article/ArticleDetail/@item.ArticleId">@item.Title</a></h2>
+                            <p>@item.Description.Substring(0, 100)...</p>
+                            <p><a href="/Article/ArticleDetail/@item.ArticleId" class="btn btn-sm btn-outline-primary">Read more</a></p>
+                        </div>
+                    </div>
+                }
+            </div>
+        </div>
+    </div>
+</div>
 
