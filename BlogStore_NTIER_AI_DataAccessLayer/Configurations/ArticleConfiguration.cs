@@ -8,15 +8,12 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Configurations
     {
         public void Configure(EntityTypeBuilder<Article> builder)
         {
-            builder.HasKey(a => a.Id);
+            builder.HasKey(a => a.ArticleId);
             builder.Property(a => a.Title).HasMaxLength(200).IsRequired();
             builder.Property(a => a.Description).HasMaxLength(2000);
             builder.Property(a => a.CreatedDate).HasDefaultValueSql("GETDATE()");
 
-            builder.HasOne(a => a.Author)
-                   .WithMany(auth => auth.Articles)
-                   .HasForeignKey(a => a.AuthorId)
-                   .OnDelete(DeleteBehavior.Cascade);
+            
 
             builder.HasOne(a => a.Category)
                    .WithMany(cat => cat.Articles)

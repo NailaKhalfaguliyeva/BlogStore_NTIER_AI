@@ -8772,6 +8772,8 @@
   "projectFileDependencyGroups": {
     "net9.0": [
       "BlogStore_NTIER_AI_BusinessLayer >= 1.0.0",
+      "BlogStore_NTIER_AI_DataAccessLayer >= 1.0.0",
+      "BlogStore_NTIER_AI_EntityLayer >= 1.0.0",
       "Microsoft.AspNetCore.Identity >= 2.3.1",
       "Microsoft.EntityFrameworkCore.Design >= 9.0.9",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 9.0.0"
@@ -8811,6 +8813,12 @@
           "projectReferences": {
             "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj": {
               "projectPath": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj"
+            },
+            "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj"
+            },
+            "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj"
             }
           }
         }

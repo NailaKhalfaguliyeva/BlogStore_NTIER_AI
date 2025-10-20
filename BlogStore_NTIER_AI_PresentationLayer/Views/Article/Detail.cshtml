@@ -26,7 +26,13 @@
 
 					@await Component.InvokeAsync("_ArticleDetailContentComponentPartial", new { id = ViewBag.i })
 
-				
+
+					<div class="pt-5">
+						<p>Categories:  <a href="#">Food</a>, <a href="#">Travel</a>  Tags: <a href="#">#manila</a>, <a href="#">#asia</a></p>
+					</div>
+
+
+					@await Component.InvokeAsync("_ArticleDetailCommentListComponentPartial", new { id = ViewBag.i })
 
 
 				<div class="col-lg-4 ps-lg-5">

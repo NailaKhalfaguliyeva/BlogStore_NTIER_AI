@@ -1,5 +1,6 @@
 ﻿using BlogStore_NTIER_AI_DataAccessLayer.Abstract;
 using BlogStore_NTIER_AI_DataAccessLayer.Context;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -16,6 +17,14 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Repositories
         {
             _blogContext = blogContext;
         }
+
+        public void Delete(int id)
+        {
+            var value = _blogContext.Set<T>().Find(id);
+            _blogContext.Set<T>().Remove(value);
+            _blogContext.SaveChanges();
+        }
+
         public List<T> GetAll()
         {
             return _blogContext.Set<T>().ToList();

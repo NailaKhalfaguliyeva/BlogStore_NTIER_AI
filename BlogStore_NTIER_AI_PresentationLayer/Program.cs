@@ -1,6 +1,5 @@
 using BlogStore_NTIER_AI_BusinessLayer.Container;
-using BlogStore_NTIER_AI_DataAccessLayer.Context;
-using Microsoft.EntityFrameworkCore;
+
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -29,10 +28,16 @@ app.UseAuthorization();
 
 app.MapStaticAssets();
 
+
+
 app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}")
     .WithStaticAssets();
 
+//app.MapControllerRoute(
+//    name: "articleDetail",
+//    pattern: "Article/ArticleDetail/{slug}",
+//    defaults: new { controller = "Article", action = "ArticleDetail" });
 
 app.Run();

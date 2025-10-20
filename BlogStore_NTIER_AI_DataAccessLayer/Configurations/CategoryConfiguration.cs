@@ -8,9 +8,8 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Configurations
     {
         public void Configure(EntityTypeBuilder<Category> builder)
         {
-            builder.HasKey(c => c.Id);
-            builder.Property(c => c.Name).HasMaxLength(100).IsRequired();
-            builder.Property(c => c.Description).HasMaxLength(500);
+            builder.HasKey(c => c.CategoryId);
+            builder.Property(c => c.CategoryName).HasMaxLength(100).IsRequired();
         }
     }
 }

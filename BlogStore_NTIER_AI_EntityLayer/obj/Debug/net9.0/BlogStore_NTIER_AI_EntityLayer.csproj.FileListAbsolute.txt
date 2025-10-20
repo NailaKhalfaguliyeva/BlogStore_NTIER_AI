@@ -7,9 +7,9 @@ C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.AssemblyInfoInputs.cache
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.AssemblyInfo.cs
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.sourcelink.json
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.dll
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\refint\BlogStore_NTIER_AI_EntityLayer.dll
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.pdb
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\ref\BlogStore_NTIER_AI_EntityLayer.dll
-C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_EntityLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_EntityLayer.sourcelink.json

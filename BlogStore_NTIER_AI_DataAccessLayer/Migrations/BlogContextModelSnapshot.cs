@@ -109,17 +109,14 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
 
             modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Article", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("ArticleId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ArticleId"));
 
                     b.Property<string>("AppUserId")
                         .HasColumnType("nvarchar(450)");
-
-                    b.Property<int>("AuthorId")
-                        .HasColumnType("int");
 
                     b.Property<int>("CategoryId")
                         .HasColumnType("int");
@@ -134,84 +131,42 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
                         .HasMaxLength(2000)
                         .HasColumnType("nvarchar(2000)");
 
+                    b.Property<string>("ImageUrl")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("Slug")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("Title")
                         .IsRequired()
                         .HasMaxLength(200)
                         .HasColumnType("nvarchar(200)");
 
-                    b.HasKey("Id");
+                    b.HasKey("ArticleId");
 
                     b.HasIndex("AppUserId");
-
-                    b.HasIndex("AuthorId");
 
                     b.HasIndex("CategoryId");
 
                     b.ToTable("Articles");
                 });
 
-            modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.ArticleTag", b =>
-                {
-                    b.Property<int>("ArticleId")
-                        .HasColumnType("int");
-
-                    b.Property<int>("TagId")
-                        .HasColumnType("int");
-
-                    b.HasKey("ArticleId", "TagId");
-
-                    b.HasIndex("TagId");
-
-                    b.ToTable("ArticleTags");
-                });
-
-            modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Author", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
-
-                    b.Property<string>("Bio")
-                        .IsRequired()
-                        .HasMaxLength(500)
-                        .HasColumnType("nvarchar(500)");
-
-                    b.Property<string>("ImageUrl")
-                        .IsRequired()
-                        .HasMaxLength(250)
-                        .HasColumnType("nvarchar(250)");
-
-                    b.Property<string>("Name")
-                        .IsRequired()
-                        .HasMaxLength(100)
-                        .HasColumnType("nvarchar(100)");
-
-                    b.HasKey("Id");
-
-                    b.ToTable("Authors");
-                });
-
             modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Category", b =>
                 {
-                    b.Property<int>("Id")
+                    b.Property<int>("CategoryId")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("int");
 
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CategoryId"));
 
-                    b.Property<string>("Description")
-                        .IsRequired()
-                        .HasMaxLength(500)
-                        .HasColumnType("nvarchar(500)");
-
-                    b.Property<string>("Name")
+                    b.Property<string>("CategoryName")
                         .IsRequired()
                         .HasMaxLength(100)
                         .HasColumnType("nvarchar(100)");
 
-                    b.HasKey("Id");
+                    b.HasKey("CategoryId");
 
                     b.ToTable("Categories");
                 });
@@ -225,6 +180,7 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CommentId"));
 
                     b.Property<string>("AppUserId")
+                        .IsRequired()
                         .HasColumnType("nvarchar(450)");
 
                     b.Property<int>("ArticleId")
@@ -235,10 +191,13 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
                         .HasColumnType("datetime2")
                         .HasDefaultValueSql("GETDATE()");
 
-                    b.Property<string>("Content")
+                    b.Property<string>("CommentDetail")
                         .IsRequired()
                         .HasMaxLength(1000)
                         .HasColumnType("nvarchar(1000)");
+
+                    b.Property<bool>("IsValid")
+                        .HasColumnType("bit");
 
                     b.HasKey("CommentId");
 
@@ -257,7 +216,7 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("TagId"));
 
-                    b.Property<string>("Name")
+                    b.Property<string>("Title")
                         .IsRequired()
                         .HasMaxLength(50)
                         .HasColumnType("nvarchar(50)");
@@ -402,15 +361,9 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
 
             modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Article", b =>
                 {
-                    b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.AppUser", null)
+                    b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.AppUser", "AppUser")
                         .WithMany("Articles")
                         .HasForeignKey("AppUserId");
-
-                    b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.Author", "Author")
-                        .WithMany("Articles")
-                        .HasForeignKey("AuthorId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
 
                     b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.Category", "Category")
                         .WithMany("Articles")
@@ -418,41 +371,26 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Author");
+                    b.Navigation("AppUser");
 
                     b.Navigation("Category");
                 });
 
-            modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.ArticleTag", b =>
-                {
-                    b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.Article", "Article")
-                        .WithMany("ArticleTags")
-                        .HasForeignKey("ArticleId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.Tag", "Tag")
-                        .WithMany("ArticleTags")
-                        .HasForeignKey("TagId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Article");
-
-                    b.Navigation("Tag");
-                });
-
             modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Comment", b =>
                 {
-                    b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.AppUser", null)
+                    b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.AppUser", "AppUser")
                         .WithMany("Comments")
-                        .HasForeignKey("AppUserId");
+                        .HasForeignKey("AppUserId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("BlogStore_NTIER_AI_EntityLayer.Entities.Article", "Article")
                         .WithMany("Comments")
                         .HasForeignKey("ArticleId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+
+                    b.Navigation("AppUser");
 
                     b.Navigation("Article");
                 });
@@ -517,24 +455,12 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
 
             modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Article", b =>
                 {
-                    b.Navigation("ArticleTags");
-
                     b.Navigation("Comments");
-                });
-
-            modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Author", b =>
-                {
-                    b.Navigation("Articles");
                 });
 
             modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Category", b =>
                 {
                     b.Navigation("Articles");
-                });
-
-            modelBuilder.Entity("BlogStore_NTIER_AI_EntityLayer.Entities.Tag", b =>
-                {
-                    b.Navigation("ArticleTags");
                 });
 #pragma warning restore 612, 618
         }

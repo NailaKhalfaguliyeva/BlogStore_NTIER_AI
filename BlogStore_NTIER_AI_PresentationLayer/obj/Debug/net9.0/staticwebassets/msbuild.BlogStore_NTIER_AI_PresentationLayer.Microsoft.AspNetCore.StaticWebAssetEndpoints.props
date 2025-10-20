@@ -4,13 +4,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlogStore_NTIER_AI_PresentationLayer.um0lfntoda.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ig48ZpS9TOK/wrtfWSmOgCJQbSc\u002BCrZtN0QX8kpCYXo="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ig48ZpS9TOK/wrtfWSmOgCJQbSc\u002BCrZtN0QX8kpCYXo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 09:56:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ig48ZpS9TOK/wrtfWSmOgCJQbSc\u002BCrZtN0QX8kpCYXo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 19 Oct 2025 18:40:59 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BlogStore_NTIER_AI_PresentationLayer/BlogStore_NTIER_AI_PresentationLayer.um0lfntoda.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BlogStore_NTIER_AI_PresentationLayer.um0lfntoda.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"um0lfntoda"},{"Name":"integrity","Value":"sha256-ig48ZpS9TOK/wrtfWSmOgCJQbSc\u002BCrZtN0QX8kpCYXo="},{"Name":"label","Value":"_content/BlogStore_NTIER_AI_PresentationLayer/BlogStore_NTIER_AI_PresentationLayer.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ig48ZpS9TOK/wrtfWSmOgCJQbSc\u002BCrZtN0QX8kpCYXo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 09:56:47 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1154"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022ig48ZpS9TOK/wrtfWSmOgCJQbSc\u002BCrZtN0QX8kpCYXo=\u0022"},{"Name":"Last-Modified","Value":"Sun, 19 Oct 2025 18:40:59 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/BlogStore_NTIER_AI_PresentationLayer/blogy-1.0.0/about.html">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\blogy-1.0.0\about.html'))</AssetFile>

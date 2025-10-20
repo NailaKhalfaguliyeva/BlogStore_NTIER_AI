@@ -30,13 +30,6 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Container
 
             services.AddScoped<ITagService, TagManager>();
             services.AddScoped<ITagDal, EfTagDal>();
-
-            services.AddScoped<IArticleTagService, ArticleTagManager>();
-            services.AddScoped<IArticleTagDal, EfArticleTagDal>();
-
-            services.AddScoped<IAuthorService, AuthorManager>();
-            services.AddScoped<IAuthorDal, EfAuthorDal>();
-
             services.AddDbContext<BlogContext>();
 
             services.AddIdentity<AppUser, IdentityRole>()

@@ -342,6 +342,12 @@
             "projectReferences": {
               "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj": {
                 "projectPath": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_BusinessLayer\\BlogStore_NTIER_AI_BusinessLayer.csproj"
+              },
+              "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_DataAccessLayer\\BlogStore_NTIER_AI_DataAccessLayer.csproj"
+              },
+              "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\source\\repos\\BlogStore_NTIER_AI\\BlogStore_NTIER_AI_EntityLayer\\BlogStore_NTIER_AI_EntityLayer.csproj"
               }
             }
           }

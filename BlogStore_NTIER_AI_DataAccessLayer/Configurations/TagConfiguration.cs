@@ -9,7 +9,7 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Configurations
         public void Configure(EntityTypeBuilder<Tag> builder)
         {
             builder.HasKey(t => t.TagId);
-            builder.Property(t => t.Name).HasMaxLength(50).IsRequired();
+            builder.Property(t => t.Title).HasMaxLength(50).IsRequired();
         }
     }
 }

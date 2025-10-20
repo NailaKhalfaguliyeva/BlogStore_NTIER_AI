@@ -2,6 +2,7 @@
 
 using BlogStore_NTIER_AI_BusinessLayer.Abstract;
 using BlogStore_NTIER_AI_DataAccessLayer.Abstract;
+using BlogStore_NTIER_AI_EntityLayer.Entities;
 
 namespace BlogStore_NTIER_AI_BusinessLayer.Concrete
 {
@@ -12,6 +13,31 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Concrete
         public CommentManager(ICommentDal commentDal)
         {
             _commentDal = commentDal;
+        }
+
+        public void TDelete(int id)
+        {
+            _commentDal.Delete(id);
+        }
+
+        public List<Comment> TGetAll()
+        {
+            return _commentDal.GetAll();
+        }
+
+        public Comment TGetById(int id)
+        {
+            return _commentDal.GetById(id);
+        }
+
+        public void TInsert(Comment entity)
+        {
+            _commentDal.Insert(entity);
+        }
+
+        public void TUpdate(Comment entity)
+        {
+            _commentDal.Update(entity);
         }
     }
 }

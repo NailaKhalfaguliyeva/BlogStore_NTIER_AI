@@ -11,10 +11,10 @@ C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\o
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_BusinessLayer.AssemblyInfoInputs.cache
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_BusinessLayer.AssemblyInfo.cs
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_BusinessLayer.sourcelink.json
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStor.40BDDEED.Up2Date
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_BusinessLayer.dll
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\refint\BlogStore_NTIER_AI_BusinessLayer.dll
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_BusinessLayer.pdb
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_BusinessLayer.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\ref\BlogStore_NTIER_AI_BusinessLayer.dll
-C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_BusinessLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_BusinessLayer.sourcelink.json

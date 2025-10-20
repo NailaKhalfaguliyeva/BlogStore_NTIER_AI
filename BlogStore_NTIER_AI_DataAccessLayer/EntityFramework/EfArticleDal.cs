@@ -16,19 +16,23 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.EntityFramework
 
         public AppUser GetAppUserByArticleId(int id)
         {
-            string userId = _blogContext.Articles.Where(x => x.Id == id).Select(y => y.AppUserId).FirstOrDefault();
+            string userId = _blogContext.Articles.Where(x => x.ArticleId== id).Select(y => y.AppUserId).FirstOrDefault();
             var userValue = _blogContext.Users.Where(x => x.Id == userId).FirstOrDefault();
             return userValue;
         }
 
-        public List<Article> GetArticleByIdWithAuthor(int id)
+        public Article GetArticleBySlug(string slug)
         {
-            return _blogContext.Articles.Include(x => x.Author).Where(x => x.Id == id).ToList();
+            return _blogContext.Articles
+                   .Include(x => x.AppUser)
+                   .Include(x => x.Category)
+                   .Include(x=> x.Comments)
+                   .FirstOrDefault(x => x.Slug == slug);
         }
 
         public List<Article> GetArticlesByAppUser(string id)
         {
-            return _blogContext.Articles.Where(x => x.AppUserId == id).ToList();
+            return _blogContext.Articles.Where(x => x.AppUserId == id).Include(x => x.Category).ToList();
         }
 
         public List<Article> GetArticlesWithCategories()

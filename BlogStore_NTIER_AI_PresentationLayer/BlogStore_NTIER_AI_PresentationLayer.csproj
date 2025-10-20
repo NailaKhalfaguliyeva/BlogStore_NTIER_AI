@@ -17,6 +17,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BlogStore_NTIER_AI_BusinessLayer\BlogStore_NTIER_AI_BusinessLayer.csproj" />
+    <ProjectReference Include="..\BlogStore_NTIER_AI_DataAccessLayer\BlogStore_NTIER_AI_DataAccessLayer.csproj" />
+    <ProjectReference Include="..\BlogStore_NTIER_AI_EntityLayer\BlogStore_NTIER_AI_EntityLayer.csproj" />
   </ItemGroup>
 
 </Project>

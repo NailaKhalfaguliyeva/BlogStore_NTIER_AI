@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BlogStore_NTIER_AI_PresentationLayer.ViewComponents.ArticleDetailViewComponents
 {
-    public class _ArticleDetailContentComponentPartial: ViewComponent
+    public class _ArticleDetailContentComponentPartial : ViewComponent
     {
         private readonly IArticleService _articleService;
 
@@ -12,10 +12,11 @@ namespace BlogStore_NTIER_AI_PresentationLayer.ViewComponents.ArticleDetailViewC
             _articleService = articleService;
         }
 
-        public IViewComponentResult Invoke(int id)
+        public IViewComponentResult Invoke()
         {
-            var value = _articleService.TGetById(id);
-            return View(value);
+            return View();
         }
+
+
     }
 }
