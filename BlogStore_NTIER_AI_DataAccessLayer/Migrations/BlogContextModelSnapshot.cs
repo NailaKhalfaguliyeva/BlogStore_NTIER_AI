@@ -199,6 +199,10 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Migrations
                     b.Property<bool>("IsValid")
                         .HasColumnType("bit");
 
+                    b.Property<string>("UserNameSurname")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("CommentId");
 
                     b.HasIndex("AppUserId");

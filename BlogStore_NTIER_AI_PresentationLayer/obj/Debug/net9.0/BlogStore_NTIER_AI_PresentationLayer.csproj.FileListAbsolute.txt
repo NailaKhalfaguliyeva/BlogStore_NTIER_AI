@@ -401,3 +401,7 @@ C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_PresentationLay
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_PresentationLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_PresentationLayer.pdb
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_PresentationLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_PresentationLayer.genruntimeconfig.cache
 C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_PresentationLayer\obj\Debug\net9.0\ref\BlogStore_NTIER_AI_PresentationLayer.dll
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_PresentationLayer\obj\Debug\net9.0\BlogStore_NTIER_AI_PresentationLayer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_PresentationLayer\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_PresentationLayer\bin\Debug\net9.0\FluentValidation.AspNetCore.dll
+C:\Users\ASUS\source\repos\BlogStore_NTIER_AI\BlogStore_NTIER_AI_PresentationLayer\bin\Debug\net9.0\FluentValidation.DependencyInjectionExtensions.dll

@@ -1,0 +1,23 @@
+﻿@model BlogStore_NTIER_AI_EntityLayer.Entities.Comment
+@{
+    Layout = null;
+}
+
+<link href="~/lib/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet" />
+
+<div class="container">
+    <br /><br />
+    <form method="post">
+        <input type="hidden" asp-for="CommentId" />
+        <label>Full Name</label>
+        <input type="text" asp-for="UserNameSurname" class="form-control" />
+        <br />
+        <label>Comment Detail Detayı</label>
+        <input type="text" asp-for="CommentDetail" class="form-control" />
+        <br />
+        <label>Comment Date</label>
+        <input type="text" asp-for="CommentDate" class="form-control" />
+        <br />
+        <button class="btn btn-info">Save</button>
+    </form>
+</div>

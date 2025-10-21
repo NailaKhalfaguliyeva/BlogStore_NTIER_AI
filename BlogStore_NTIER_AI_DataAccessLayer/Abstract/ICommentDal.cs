@@ -4,6 +4,7 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Abstract
 {
     public interface ICommentDal : IGenericDal<Comment>
     {
-
+        List<Comment> GetCommentsByArticle(int id);
+        List<Comment> GetAllComments();
     }
 }

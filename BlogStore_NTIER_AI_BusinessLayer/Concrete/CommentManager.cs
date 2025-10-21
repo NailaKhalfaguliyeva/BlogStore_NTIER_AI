@@ -25,9 +25,19 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Concrete
             return _commentDal.GetAll();
         }
 
+        public List<Comment> TGetAllComments()
+        {
+            return _commentDal.GetAllComments();
+        }
+
         public Comment TGetById(int id)
         {
             return _commentDal.GetById(id);
+        }
+
+        public List<Comment> TGetCommentsByArticle(int id)
+        {
+            return _commentDal.GetCommentsByArticle(id);
         }
 
         public void TInsert(Comment entity)
