@@ -7,5 +7,6 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Abstract
     {
         public List<Comment> TGetCommentsByArticle(int id);
         List<Comment> TGetAllComments();
+        List<Comment> TGetLast3CommentsByArticle(string id);
     }
 }

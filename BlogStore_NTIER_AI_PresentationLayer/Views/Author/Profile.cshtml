@@ -1,0 +1,19 @@
+﻿@model AuthorProfileViewModel
+@{
+    ViewData["Title"] = "Profile";
+    Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2>@ViewBag.name @ViewBag.surname's Profile</h2>
+    <div class="card mt-4 shadow-sm">
+        <div class="card-body">
+            <img src="@ViewBag.imageurl" alt="Profile Photo" class="rounded-circle mb-3" width="120" height="120" />
+            <h4>@ViewBag.username</h4>
+            <p><strong>Email:</strong> @ViewBag.email</p>
+            <p><strong>ID:</strong> @ViewBag.id</p>
+            <a href="/Author/ChangePassword" class="btn btn-warning">Change Password</a>
+            <a href="/Author/MyArticleList" class="btn btn-primary">My Articles</a>
+        </div>
+    </div>
+</div>

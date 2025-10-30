@@ -1,6 +1,7 @@
 ﻿
 using BlogStore_NTIER_AI_BusinessLayer.Abstract;
 using BlogStore_NTIER_AI_DataAccessLayer.Abstract;
+using BlogStore_NTIER_AI_DataAccessLayer.Dtos;
 using BlogStore_NTIER_AI_EntityLayer.Entities;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
@@ -28,6 +29,11 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Concrete
         public Category TGetById(int id)
         {
             return _categoryDal.GetById(id); ;
+        }
+
+        public List<CategoryWithArticleCountDto> TGetCategoryWithArticleCount()
+        {
+            return _categoryDal.GetCategoryWithArticleCount();
         }
 
         public void TInsert(Category entity)

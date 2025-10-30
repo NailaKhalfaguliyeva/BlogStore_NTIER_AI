@@ -25,5 +25,18 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.EntityFramework
             var values = _blogContext.Comments.Include(x => x.AppUser).Include(y => y.Article).Where(z => z.ArticleId == id).ToList();
             return values;
         }
+
+        public List<Comment> GetLast3CommentsByArticle(string id)
+        {
+            var values = _blogContext.Comments
+                         .Include(x => x.AppUser)
+                         .Include(x => x.Article)
+                         .Where(x => x.Article.AppUserId == id)
+                         .OrderByDescending(x => x.CommentDate)
+                         .Take(5)
+                         .ToList();
+            return values;
+
+        }
     }
 }

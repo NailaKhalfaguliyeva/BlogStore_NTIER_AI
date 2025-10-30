@@ -6,7 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace BlogStore_NTIER_AI_PresentationLayer.Controllers
 {
-    [Route("article")]
+
     public class ArticleController : Controller
     {
         private readonly IArticleService _articleService;
@@ -16,8 +16,8 @@ namespace BlogStore_NTIER_AI_PresentationLayer.Controllers
             _articleService = articleService;
         }
 
-        [Route("{slug}")]
-        public IActionResult Detail(string slug)
+        [Route("Article/ArticleDetail/{slug}")]
+        public IActionResult ArticleDetail(string slug)
         {
             var article = _articleService.TGetArticleBySlug(slug);
             if (article == null) return NotFound();

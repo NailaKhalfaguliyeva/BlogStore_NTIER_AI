@@ -1,0 +1,37 @@
+﻿@model List<BlogStore_NTIER_AI_EntityLayer.Entities.Article>
+@{
+    ViewData["Title"] = "MyArticleList";
+    Layout = "~/Views/Shared/_AuthorLayout.cshtml";
+}
+
+<div class="container mt-5">
+    <h2>My Articles</h2>
+    <table class="table table-bordered table-striped mt-3">
+        <thead class="table-dark">
+            <tr>
+                <th>Title</th>
+                <th>Created Date</th>
+                <th>Category</th>
+                <th>Image</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Title</td>
+                    <td>@item.CreatedDate.ToShortDateString()</td>
+                    <td>@item.Category?.CategoryName</td>
+                    <td>
+                        @if (!string.IsNullOrEmpty(item.ImageUrl))
+                        {
+                            <img src="@item.ImageUrl" width="80" height="60" style="object-fit:cover;" />
+                        }
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <a href="/Author/CreateArticle" class="btn btn-success">Create New Article</a>
+</div>

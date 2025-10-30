@@ -6,5 +6,6 @@ namespace BlogStore_NTIER_AI_DataAccessLayer.Abstract
     {
         List<Comment> GetCommentsByArticle(int id);
         List<Comment> GetAllComments();
+        List<Comment> GetLast3CommentsByArticle(string id);
     }
 }

@@ -1,12 +1,21 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using BlogStore_NTIER_AI_BusinessLayer.Abstract;
+using Microsoft.AspNetCore.Mvc;
 
 namespace BlogStore_NTIER_AI_PresentationLayer.ViewComponents.ArticleDetailViewComponents
 {
     public class _ArticleDetailMainCoverImageComponentPartial : ViewComponent
     {
-        public IViewComponentResult Invoke()
+        private readonly IArticleService _articleService;
+
+        public _ArticleDetailMainCoverImageComponentPartial(IArticleService articleService)
         {
-            return View();
+            _articleService = articleService;
+        }
+
+        public IViewComponentResult Invoke(int id)
+        {
+            var values = _articleService.TGetArticleWithUser(id);
+            return View(values);
         }
     }
 }

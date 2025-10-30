@@ -32,9 +32,24 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Concrete
             return _articleDal.GetArticleBySlug(slug);
         }
 
+        public List<(string CategoryName, int ArticleCount)> TGetArticleCountByCategory()
+        {
+            return _articleDal.GetArticleCountByCategory();
+        }
+
         public List<Article> TGetArticlesByAppUser(string id)
         {
             return _articleDal.GetArticlesByAppUser(id);
+        }
+
+        public List<Article> TGetArticlesByCategoryId(int id)
+        {
+            return _articleDal.GetArticlesByCategoryId(id);
+        }
+
+        public List<Article> TGetArticlesByUserId(string id)
+        {
+            return _articleDal.GetArticlesByUserId(id);
         }
 
         public List<Article> TGetArticlesWithCategories()
@@ -42,9 +57,24 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Concrete
             return _articleDal.GetArticlesWithCategories();
         }
 
+        public Article TGetArticleWithUser(int id)
+        {
+            return _articleDal.GetArticleWithUser(id);
+        }
+
         public Article TGetById(int id)
         {
             return _articleDal.GetById(id);
+        }
+
+        public List<Article> TGetLast5ArticlesByUser(string id)
+        {
+            return _articleDal.GetLast5ArticlesByUser(id);
+        }
+
+        public List<Article> TGetTop3PopularArticles()
+        {
+            return _articleDal.GetTop3PopularArticles();
         }
 
         public void TInsert(Article entity)

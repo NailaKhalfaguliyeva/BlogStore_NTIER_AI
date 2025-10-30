@@ -40,6 +40,11 @@ namespace BlogStore_NTIER_AI_BusinessLayer.Concrete
             return _commentDal.GetCommentsByArticle(id);
         }
 
+        public List<Comment> TGetLast3CommentsByArticle(string id)
+        {
+            return _commentDal.GetLast3CommentsByArticle(id);
+        }
+
         public void TInsert(Comment entity)
         {
             _commentDal.Insert(entity);
